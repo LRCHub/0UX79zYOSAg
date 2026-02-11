@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "MAISIE",
+  "base_artist": "Cö shu Nie",
+  "createdAt": "2026-02-11T07:53:10.230802Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Maisie",
+      "artist": "Syd Barrett",
+      "has_synced": true,
+      "path": "select/01_Maisie_Syd_Barrett.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Make It Out (feat. Maisie Peters)",
+      "artist": "Henry Jamison feat. Maisie Peters",
+      "has_synced": true,
+      "path": "select/02_Make_It_Out_(feat._Maisie_Peters)_Henry_Jamison_feat._Maisie_Peters.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Make It Out (feat. Maisie Peters)",
+      "artist": "Henry Jamison",
+      "has_synced": true,
+      "path": "select/03_Make_It_Out_(feat._Maisie_Peters)_Henry_Jamison.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Maisie Peters - History Of Man [Lyric Video]",
+      "artist": "Maisie Peters",
+      "has_synced": true,
+      "path": "select/04_Maisie_Peters_-_History_Of_Man_[Lyric_Video]_Maisie_Peters.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "A Good Love, Pt. 2 (feat. Maisie Peters)",
+      "artist": "Bear's Den",
+      "has_synced": true,
+      "path": "select/05_A_Good_Love,_Pt._2_(feat._Maisie_Peters)_Bear's_Den.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "One Last Try (feat. Maisie Peters)",
+      "artist": "ReN",
+      "has_synced": false,
+      "path": "select/06_One_Last_Try_(feat._Maisie_Peters)_ReN.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Song You'll Never Hear (feat. Maisie Peters)",
+      "artist": "Sarcastic Sounds",
+      "has_synced": true,
+      "path": "select/07_Song_You'll_Never_Hear_(feat._Maisie_Peters)_Sarcastic_Sounds.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Maisie Peters - The Last One [Lyric Video]",
+      "artist": "Maisie Peters",
+      "has_synced": false,
+      "path": "select/08_Maisie_Peters_-_The_Last_One_[Lyric_Video]_Maisie_Peters.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "One Last Try (feat. Maisie Peters)",
+      "artist": "Ren",
+      "has_synced": true,
+      "path": "select/09_One_Last_Try_(feat._Maisie_Peters)_Ren.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Maisie",
+      "artist": "Syd Barrett",
+      "has_synced": false,
+      "path": "select/10_Maisie_Syd_Barrett.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Maisie Peters - John Hughes Movie [Official Video]",
+      "artist": "Maisie Peters",
+      "has_synced": true,
+      "path": "select/11_Maisie_Peters_-_John_Hughes_Movie_[Official_Video]_Maisie_Peters.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Maisie Peters - You Signed Up For This [Lyric Video]",
+      "artist": "Maisie Peters",
+      "has_synced": true,
+      "path": "select/12_Maisie_Peters_-_You_Signed_Up_For_This_[Lyric_Video]_Maisie_Peters.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MAISIE",
+      "artist": "Cö shu Nie feat. HYDE",
+      "has_synced": false,
+      "path": "select/pl_01_MAISIE_Cö_shu_Nie_feat._HYDE.txt"
+    }
+  ]
+}
